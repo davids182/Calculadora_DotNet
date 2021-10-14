@@ -1,0 +1,16 @@
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\bin\Debug\net5.0\caculadora_dotnet.exe
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\bin\Debug\net5.0\caculadora_dotnet.deps.json
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\bin\Debug\net5.0\caculadora_dotnet.runtimeconfig.json
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\bin\Debug\net5.0\caculadora_dotnet.runtimeconfig.dev.json
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\bin\Debug\net5.0\caculadora_dotnet.dll
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\bin\Debug\net5.0\ref\caculadora_dotnet.dll
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\bin\Debug\net5.0\caculadora_dotnet.pdb
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\obj\Debug\net5.0\caculadora_dotnet.csproj.AssemblyReference.cache
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\obj\Debug\net5.0\caculadora_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\obj\Debug\net5.0\caculadora_dotnet.AssemblyInfoInputs.cache
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\obj\Debug\net5.0\caculadora_dotnet.AssemblyInfo.cs
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\obj\Debug\net5.0\caculadora_dotnet.csproj.CoreCompileInputs.cache
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\obj\Debug\net5.0\caculadora_dotnet.dll
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\obj\Debug\net5.0\ref\caculadora_dotnet.dll
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\obj\Debug\net5.0\caculadora_dotnet.pdb
+C:\workspace\c&aFashionDevs\dotNet\caculadora_dotnet\obj\Debug\net5.0\caculadora_dotnet.genruntimeconfig.cache
